@@ -22229,7 +22229,7 @@ namespace NotkiAleTak.Droid
 			public const int AppCompatTheme_activityChooserViewStyle = 34;
 			
 			// aapt resource value: 39
-			public const int AppCompatTheme_actionModePopupWindowStyle = 39;
+			//public const int AppCompatTheme_actionModePopupWindowStyle = 39;
 			
 			// aapt resource value: 35
 			public const int AppCompatTheme_alertDialogButtonGroupStyle = 35;
@@ -22241,7 +22241,7 @@ namespace NotkiAleTak.Droid
 			public const int AppCompatTheme_alertDialogStyle = 37;
 			
 			// aapt resource value: 27
-			public const int AppCompatTheme_actionModeStyle = 27;
+			//public const int AppCompatTheme_actionModeStyle = 27;
 			
 			// aapt resource value: 38
 			public const int AppCompatTheme_alertDialogTheme = 38;
@@ -22472,7 +22472,7 @@ namespace NotkiAleTak.Droid
 			public const int AppCompatTheme_textColorSearchUrl = 111;
 			
 			// aapt resource value: 69
-			public const int AppCompatTheme_searchViewStyle = 69;
+			//public const int AppCompatTheme_searchViewStyle = 69;
 			
 			// aapt resource value: 112
 			public const int AppCompatTheme_toolbarNavigationButtonStyle = 112;
@@ -22794,7 +22794,7 @@ namespace NotkiAleTak.Droid
 			public const int CardView_contentPaddingBottom = 12;
 			
 			// aapt resource value: 9
-			public const int CardView_contentPaddingBottom = 9;
+			//public const int CardView_contentPaddingBottom = 9;
 			
 			// aapt resource value: 10
 			public const int CardView_contentPaddingLeft = 10;
@@ -26441,7 +26441,7 @@ namespace NotkiAleTak.Droid
 			public const int LinearLayoutCompat_dividerPadding = 8;
 			
 			// aapt resource value: 6
-			public const int LinearLayoutCompat_dividerPadding = 6;
+			//public const int LinearLayoutCompat_dividerPadding = 6;
 			
 			// aapt resource value: { 0x10100B3,0x10100F4,0x10100F5,0x1010181 }
 			public static int[] LinearLayoutCompat_Layout = new int[] {
@@ -28103,7 +28103,7 @@ namespace NotkiAleTak.Droid
 			public const int RecyclerView_reverseLayout = 9;
 			
 			// aapt resource value: 10
-			public const int RecyclerView_spanCount = 10;
+			//public const int RecyclerView_spanCount = 10;
 			
 			// aapt resource value: 11
 			public const int RecyclerView_stackFromEnd = 11;
