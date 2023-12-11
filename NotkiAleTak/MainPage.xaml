@@ -21,5 +21,6 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+        <Label Text="cos"/>
     </StackLayout>
 </ContentPage>
