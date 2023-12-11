@@ -15,7 +15,7 @@
                     <ViewCell>
                         <StackLayout>
                             <Label Text="{Binding Title}"/>
-                            Lubie psuc kod kolegom
+                            Lubie psuc kod kolegom jestem podły
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
