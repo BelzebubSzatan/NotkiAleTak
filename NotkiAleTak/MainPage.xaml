@@ -15,11 +15,11 @@
                     <ViewCell>
                         <StackLayout>
                             <Label Text="{Binding Title}"/>
+                            Lubie psuc kod kolegom
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
     </StackLayout>
-
 </ContentPage>
